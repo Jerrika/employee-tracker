@@ -1,0 +1,32 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "mydb",
+            "name": "Local instance 3306",
+            "username": "jerrikagabriel@gmail.com"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "Local Instance 3306",
+            "database": "mydb",
+            "username": "root",
+            "password": "Taylor4ME1",
+            "connectionTimeout": 30
+        }
+    ]
+}

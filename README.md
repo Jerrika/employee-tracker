@@ -1,22 +1,9 @@
-# Thomas & Friends SQL: Employee Tracker 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  
+# Employee Tracker 
+ 
 ## Description:
 
-Thomas & Friends SQL: Employee Tracker is 'Thomas' and 'Tom' themed SQL employee data base tracker of Thomas Calle's(thats me by the way) fantasy employee famous fictional, non-fictional, characters, celebrities, significant figures team. The interfaces allows non-developers to easily view and interact with information through the command-line of the application stored in an SQL Employee Tracker database. 
+Employee Tracker is SQL employee data base tracker of fictional employee. The interfaces allows non-developers to easily view and interact with information through the command-line of the application stored in an SQLEmployee Tracker database. 
 
-## Table of Contents:
-- [Overview](#Overview)
-- [The Challenge](#The-Challenge)
-- [Usage Information](#Usage-Information)
-- [Installation Process](#Installation-Process)
-- [Built With](#Built-With)
-- [What I Learned](#What-I-Learned)
-- [Continued Development](#Continued-Development)
-- [License](#License)
-- [Author](#Author)
-- [Acknowledgments](#Acknowledgments)
 
 # Overview
 
@@ -53,10 +40,10 @@ THEN I am prompted to select an employee to update and their new role and this i
 ```
 ## GIF.
 ### Figure 1. GIF Command line interface
-![](./assets/images/Demo.GIF)
+![](Placeholder)
 
 ## Usage Instructions
-1. Open the content management systems (CMS) named "Thomas & Friends SQL Employee Tracker".
+1. Open the content management systems (CMS) named "Employee Tracker".
 2. Open 'Intergrated Terminal' on 'server.js' and enter 'node server.js'
 3. Use the 'UP' and 'DOWN' arrow keys to navigate the command line. 
 4. Click 'enter' or 'return' on your respective choice.
@@ -64,73 +51,15 @@ THEN I am prompted to select an employee to update and their new role and this i
 6. Additionally, for more in-depth instructions [Click Here to Watch.](https://www.youtube.com/watch?v=m9CQxR0AfiQ)
 
 ## Repository Link:
-[Repository Link 'Click Here'.](https://github.com/ThomasCalle/Thomas-SQL-Employee-Tracker)
+[Repository Link 'Click Here'.](https://github.com/Jerrika/sql-challenge)
 
 ## YouTube Walkthrough Video:
-[Click Here to Watch.](https://www.youtube.com/watch?v=m9CQxR0AfiQ)
+[Click to View.](Placeholder)
 
 ## Screenshots.
 ### Figure 1. Command line interface
-![](./assets/images/Module12-Screenshot.jpg)
-
-## Installation Process
-1. Clone or download the zip.folder of the repository: [Thomas' SQL Employee Tracker](https://github.com/ThomasCalle/Thomas-SQL-Employee-Tracker)
-2. Install the following: 
-- Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
-- MySQL2: [Version 3.1.2](https://www.npmjs.com/package/mysql2)
-- Console.table: [Version 0.10.0](https://www.npmjs.com/package/console.table)
-3. Open the repository in any source code editor.
-4. Open the integrated terminal for the document and complete the respective installation guides provided above in section (2) to ensure the cloned documentation will operate.
-
-## Built With
-- Saiyan Pride
-- Dynamic JavaScript 
-- Cfonts: [Cfonts 3.1.1](https://www.npmjs.com/package/cfonts)
-- Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
-- MySQL2: [Version 3.1.2](https://www.npmjs.com/package/mysql2)
-- Console.table: [Version 0.10.0](https://www.npmjs.com/package/console.table)
-- License Badge: [Shields.io](https://shields.io/)
-- Visual Studio Code: [Website](https://code.visualstudio.com/)
-
-## What I Learned
-1. How to build a command-line application from scratch to manage an employee database, using Node.js, Inquirer, and MySQL.
-2. Creating a lengthly content management systems (CMS). 
-3. Create direct and coherent walkthrough video that demonstrates the interfaces functionality and acceptance criteria + BONUS acceptance criteria.
+![](Placeholder)
 
 
-### Continued Development:
-1. Create 'History'feature that records the date of when employess are 'Added' and 'Removed'.
-2. Adjust file/folder sorting, create several child folders for server.js file to better organize and seperate additional inquirer features.
 
-## License & Copyright ©
-  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
 
-### Copyright © 2023 Thomas Calle
-```md
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-## Author
-
-Follow me on Github at [ThomasCalle](https://github.com/ThomasCalle)! Additional questions or concerns? feel free to contact me at thomas.calle@outlook.com.
-
-Until next, adios!
-
-© 2023 [ThomasCalle](https://github.com/ThomasCalle). Confidential and Proprietary. All Rights Reserved.
