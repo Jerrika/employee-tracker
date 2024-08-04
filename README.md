@@ -48,7 +48,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 3. Use the 'UP' and 'DOWN' arrow keys to navigate the command line. 
 4. Click 'enter' or 'return' on your respective choice.
 5. Follow all commad line prompts as directed until desired choice has been met.
-6. Additionally, for more in-depth instructions [Click Here to Watch.](https://www.youtube.com/watch?v=m9CQxR0AfiQ)
+6. Additionally, for more in-depth instructions [Click Here to Watch.]()
 
 ## Repository Link:
 [Repository Link 'Click Here'.](https://github.com/Jerrika/sql-challenge)
